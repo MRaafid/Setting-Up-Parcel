@@ -1,0 +1,35 @@
+.main {
+  font-family: sans-serif;
+  font-weight: normal;
+  position: absolute;
+  left: 40px;
+}
+
+#add-task-input {
+  outline: none;
+  width: 500px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.task-list {
+  position: relative;
+  top: 10px;
+}
+
+.task {
+  background-color: #0000000d;
+  margin-top: 2px;
+  padding: 10px;
+  position: relative;
+}
+
+.rem-btn {
+  cursor: pointer;
+  font-size: 10px;
+  position: absolute;
+  top: 12px;
+  right: 10px;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
